@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tiobista/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://tiobistaproduct-preview-card.netlify.app/)
+- Solution URL: [https://github.com/tiobista/product-preview-card-component]
+- Live Site URL: [https://tiobistaproduct-preview-card.netlify.app/]
 
 ## My process
 
